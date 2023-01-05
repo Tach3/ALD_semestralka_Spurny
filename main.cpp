@@ -126,13 +126,6 @@ int main(int argc, char** argv)
         return -1;
     }
 
-    for (int i = 0; i < ROWS; i++)
-    {
-        for (int j = 0; j < COLS; j++)
-        {
-            chessboard[i][j] = 99;
-        }
-    }
 
     for (int i = 0; i < ROWS; i++)
     {
