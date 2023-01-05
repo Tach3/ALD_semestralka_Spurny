@@ -13,8 +13,13 @@ _**Algoritmus**_
 * priradím podľa predchádzajúceho kroku index
 * prejdem celú šachovnicu a políčko po políčku nahádžem do vektora
 * vykreslím postupne z vektora celý obrázok
+* obrazok sa ulozi ako generated.jpg 
 * program sa ukončí stiskom náhodnej klávesy
 * na vykreslenie používam OpenCV
 
 ## príklad wang tiles
 ![](https://github.com/Tach3/ALD_semestralka_Spurny/blob/main/Capture.PNG)
+
+## príklad vygenerovanej plochy
+![](https://github.com/Tach3/ALD_semestralka_Spurny/blob/main/generated.jpg)
+
