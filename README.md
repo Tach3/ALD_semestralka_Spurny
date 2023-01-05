@@ -15,5 +15,5 @@ _**Algoritmus**_
 * vykreslím postupne z vektora celý obrázok
 * na vykreslenie používam OpenCV
 
-## Class Diagram
-![](https://github.com/Tach3/-2122ALG2--Spurny---ObchodSKartami-/blob/665871acc05eb95c6dc44a9202f0b112aa250d0a/classDiagram.jpg)
+## príklad wang tiles
+![](https://github.com/Tach3/ALD_semestralka_Spurny/blob/main/Capture.PNG)
