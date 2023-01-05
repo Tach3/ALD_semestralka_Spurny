@@ -8,8 +8,8 @@ using namespace cv;
 using namespace std;
 namespace fs = std::filesystem;
 
-const int ROWS = 10;
-const int COLS = 10;
+const int ROWS = 15;
+const int COLS = 15;
 
 class Tile {
 private:
