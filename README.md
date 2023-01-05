@@ -1,1 +1,1 @@
-# opencvtest
+# Semestrálna úloha
