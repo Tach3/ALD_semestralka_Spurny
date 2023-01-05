@@ -178,10 +178,10 @@ int main(int argc, char** argv)
     {
         for (int j = 0; j < COLS; j++)
         {
-            cout << chessboard[i][j] << " ";
+            
             finale.push_back(images[chessboard[i][j]]);
         }
-        cout << endl;
+        
     }
 
 
@@ -192,6 +192,7 @@ int main(int argc, char** argv)
 
     namedWindow("Display Image", WINDOW_AUTOSIZE);
     imshow("Display Image", concatenatedImage);
+    imwrite("generated.jpg", concatenatedImage);
     waitKey(0);
     
     return 0;
