@@ -105,7 +105,7 @@ int main(int argc, char** argv)
     int random;
     int chessboard[ROWS][COLS];
     srand(time(0));
-    string folder_path = "C:/Users/peter/Desktop/code/c++/semestralka/sprites/roads2W/";
+    string folder_path = ;
 
     for (const auto& entry : fs::directory_iterator(folder_path))
     {
